@@ -1,0 +1,5 @@
+{
+  "name": "appligenie/auto-runner",
+  "description": "Auto runner PHP for refreshing tokens and dispatching campaigns.",
+  "require": {}
+}
